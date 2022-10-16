@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AlgoData.iml" filepath="$PROJECT_DIR$/.idea/AlgoData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Werkcollege1/Facebook/Facebook.iml" filepath="$PROJECT_DIR$/Werkcollege1/Facebook/Facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Werkcollege1/HRM/HRM.iml" filepath="$PROJECT_DIR$/Werkcollege1/HRM/HRM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Werkcollege 2/MatchAnalysis/MatchAnalysis.iml" filepath="$PROJECT_DIR$/Werkcollege 2/MatchAnalysis/MatchAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Werkcollege 2/Werkcollege 2.iml" filepath="$PROJECT_DIR$/Werkcollege 2/Werkcollege 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Werkcollege1/Werkcollege1.iml" filepath="$PROJECT_DIR$/Werkcollege1/Werkcollege1.iml" />
+    </modules>
+  </component>
+</project>
