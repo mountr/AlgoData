@@ -3,11 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AlgoData.iml" filepath="$PROJECT_DIR$/.idea/AlgoData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Werkcollege3/BasketAnalysis/BasketAnalysis.iml" filepath="$PROJECT_DIR$/Werkcollege3/BasketAnalysis/BasketAnalysis.iml" />
       <module fileurl="file://$PROJECT_DIR$/Werkcollege1/Facebook/Facebook.iml" filepath="$PROJECT_DIR$/Werkcollege1/Facebook/Facebook.iml" />
       <module fileurl="file://$PROJECT_DIR$/Werkcollege1/HRM/HRM.iml" filepath="$PROJECT_DIR$/Werkcollege1/HRM/HRM.iml" />
       <module fileurl="file://$PROJECT_DIR$/Werkcollege 2/MatchAnalysis/MatchAnalysis.iml" filepath="$PROJECT_DIR$/Werkcollege 2/MatchAnalysis/MatchAnalysis.iml" />
       <module fileurl="file://$PROJECT_DIR$/Werkcollege 2/Werkcollege 2.iml" filepath="$PROJECT_DIR$/Werkcollege 2/Werkcollege 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Werkcollege1/Werkcollege1.iml" filepath="$PROJECT_DIR$/Werkcollege1/Werkcollege1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Werkcollege3/Werkcollege3.iml" filepath="$PROJECT_DIR$/Werkcollege3/Werkcollege3.iml" />
     </modules>
   </component>
 </project>
