@@ -31,7 +31,7 @@ public class Graph implements IGraph{
         int count = 0;
         for(ArrayList<IEdge> edgeArray : proximityLists.values())
             count += edgeArray.size();
-        return count/2;
+        return count/2; // pas wordt 2 keer geteld
     }
 
     public INode getNode(String name) throws GraphQueryException {
@@ -117,7 +117,7 @@ public class Graph implements IGraph{
         HashMap<INode,ArrayList<IEdge>> dataFile;
         try {
             inputStream = new ObjectInputStream(new FileInputStream(file.getName()));
-            dataFile = (HashMap<INode,ArrayList<IEdge>>)inputStream.readObject();
+            dataFile = (HashMap<INode,ArrayList<IEdge>>) inputStream.readObject();
         } catch (IOException | ClassNotFoundException e) {
             return null;
         }
