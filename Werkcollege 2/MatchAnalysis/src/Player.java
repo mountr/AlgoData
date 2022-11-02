@@ -42,6 +42,20 @@ public class Player implements INode, Serializable, Comparable<Player> {
 
     @Override
     public int compareTo(Player o) {
-        return Integer.compare(number, o.number);
+        if (this.number > o.number) {
+
+            // if current object is greater,then return 1
+            return 1;
+        }
+        else if (this.number < o.number) {
+
+            // if current object is greater,then return -1
+            return -1;
+        }
+        else {
+
+            // if current object is equal to o,then return 0
+            return 0;
+        }
     }
 }
