@@ -13,6 +13,11 @@ public class Plaats {
         this.stad = stad;
         this.postcode = postcode;
     }
+    //Getter
+
+    public String getNaam() {
+        return naam;
+    }
 
     // Hashcode & Equals
 
