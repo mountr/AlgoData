@@ -14,7 +14,7 @@ public class Route implements Comparable<Route> {
         route[0] = start;
         route[tussenstops.size()+1] = eind;
         int i = 1;
-        for (Plaats stop : tussenstops){
+        for (Plaats stop : tussenstops){ // beter met andere for
             route[i] = stop;
             i++;
         }
